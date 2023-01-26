@@ -2,3 +2,5 @@
 Repositório inicial
 
 README exemplo
+
+lembrei do comando: git status
